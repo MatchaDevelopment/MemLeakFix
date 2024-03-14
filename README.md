@@ -1,3 +1,3 @@
 # MemLeakFix
 
-simple (ctjs)[https://chattriggers.com] module to fix memory leaks in mc 1.8.9
+simple [ChatTriggers](https://ChatTriggers.com/) module to fix memory leaks in mc 1.8.9
